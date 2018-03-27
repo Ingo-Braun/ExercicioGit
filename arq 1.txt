@@ -1,2 +1,6 @@
 arq 1
+<<<<<<< HEAD
 txt2
+=======
+txt 1
+>>>>>>> master
